@@ -20,8 +20,8 @@ h1 {
 }
 
 section {
-  direction: rtl; /* Right-to-Left direction */
-  text-align: right; /* Align text to the right */
+   width: 80%; 
+  margin: 0 auto;
   color: rgb(255, 255, 255);
   font-family: cursive;
   font-weight: 400;
